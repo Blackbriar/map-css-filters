@@ -1,0 +1,23 @@
+{
+  "name": "map-filters",
+  "version": "1.0.0",
+  "description": "Map an object with CSS filter values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/map-filters.git"
+  },
+  "keywords": [
+    "javascript",
+    "css"
+  ],
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/map-filters/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/map-filters#readme"
+}
