@@ -1,5 +1,5 @@
 {
-  "name": "map-filters",
+  "name": "map-css-filters",
   "version": "1.0.0",
   "description": "Map an object with CSS filter values",
   "main": "index.js",
